@@ -49,6 +49,7 @@ Ensure Docker Desktop is running on your machine, then start up the RabbitMQ bro
 
 ```bash
 docker run -d --name rabbitmq -p 5672:5672 -p 15672:15672 rabbitmq:3-management
+```
 
 2. Launch the Application
 Open PortfolioShop.sln in Visual Studio.
