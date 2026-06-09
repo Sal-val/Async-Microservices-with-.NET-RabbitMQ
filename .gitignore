@@ -1,0 +1,36 @@
+```text
+## Visual Studio User & Build Files
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Re]leasePublic/
+x64/
+x86/
+b囊/
+obj/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Visual Studio Code cache & configs
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+.history/
+
+## Rider / JetBrains IDEs
+.idea/
+
+## User-specific configuration files
+appsettings.Development.json
+*.userprefs
+
+## Operating System temporary files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store

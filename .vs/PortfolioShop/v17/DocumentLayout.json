@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\NETProjects\\PortfolioShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1BBBFB0-6F55-4199-B80D-B925844E21A1}|PortfolioShop.InventoryService\\PortfolioShop.InventoryService.csproj|i:\\netprojects\\portfolioshop\\portfolioshop.inventoryservice\\consumers\\orderplacedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1BBBFB0-6F55-4199-B80D-B925844E21A1}|PortfolioShop.InventoryService\\PortfolioShop.InventoryService.csproj|solutionrelative:portfolioshop.inventoryservice\\consumers\\orderplacedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89B8FF5-E7BB-420F-BA62-45DE5DB68FAB}|PortfolioShop.Contracts\\PortfolioShop.Contracts.csproj|i:\\netprojects\\portfolioshop\\portfolioshop.contracts\\messages\\iorderplacedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F89B8FF5-E7BB-420F-BA62-45DE5DB68FAB}|PortfolioShop.Contracts\\PortfolioShop.Contracts.csproj|solutionrelative:portfolioshop.contracts\\messages\\iorderplacedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{869960D8-2EB6-4B07-9C5E-FCB4957A32D2}|PortfolioShop.OrderApi\\PortfolioShop.OrderApi.csproj|i:\\netprojects\\portfolioshop\\portfolioshop.orderapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{869960D8-2EB6-4B07-9C5E-FCB4957A32D2}|PortfolioShop.OrderApi\\PortfolioShop.OrderApi.csproj|solutionrelative:portfolioshop.orderapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{869960D8-2EB6-4B07-9C5E-FCB4957A32D2}|PortfolioShop.OrderApi\\PortfolioShop.OrderApi.csproj|i:\\netprojects\\portfolioshop\\portfolioshop.orderapi\\portfolioshop.orderapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{869960D8-2EB6-4B07-9C5E-FCB4957A32D2}|PortfolioShop.OrderApi\\PortfolioShop.OrderApi.csproj|solutionrelative:portfolioshop.orderapi\\portfolioshop.orderapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{869960D8-2EB6-4B07-9C5E-FCB4957A32D2}|PortfolioShop.OrderApi\\PortfolioShop.OrderApi.csproj|i:\\netprojects\\portfolioshop\\portfolioshop.orderapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{869960D8-2EB6-4B07-9C5E-FCB4957A32D2}|PortfolioShop.OrderApi\\PortfolioShop.OrderApi.csproj|solutionrelative:portfolioshop.orderapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{869960D8-2EB6-4B07-9C5E-FCB4957A32D2}|PortfolioShop.OrderApi\\PortfolioShop.OrderApi.csproj|i:\\netprojects\\portfolioshop\\portfolioshop.orderapi\\portfolioshop.orderapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{869960D8-2EB6-4B07-9C5E-FCB4957A32D2}|PortfolioShop.OrderApi\\PortfolioShop.OrderApi.csproj|solutionrelative:portfolioshop.orderapi\\portfolioshop.orderapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1BBBFB0-6F55-4199-B80D-B925844E21A1}|PortfolioShop.InventoryService\\PortfolioShop.InventoryService.csproj|i:\\netprojects\\portfolioshop\\portfolioshop.inventoryservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1BBBFB0-6F55-4199-B80D-B925844E21A1}|PortfolioShop.InventoryService\\PortfolioShop.InventoryService.csproj|solutionrelative:portfolioshop.inventoryservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PortfolioShop.OrderApi.http",
+              "DocumentMoniker": "I:\\NETProjects\\PortfolioShop\\PortfolioShop.OrderApi\\PortfolioShop.OrderApi.http",
+              "RelativeDocumentMoniker": "PortfolioShop.OrderApi\\PortfolioShop.OrderApi.http",
+              "ToolTip": "I:\\NETProjects\\PortfolioShop\\PortfolioShop.OrderApi\\PortfolioShop.OrderApi.http",
+              "RelativeToolTip": "PortfolioShop.OrderApi\\PortfolioShop.OrderApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-06-09T08:39:55.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "I:\\NETProjects\\PortfolioShop\\PortfolioShop.InventoryService\\Program.cs",
+              "RelativeDocumentMoniker": "PortfolioShop.InventoryService\\Program.cs",
+              "ToolTip": "I:\\NETProjects\\PortfolioShop\\PortfolioShop.InventoryService\\Program.cs",
+              "RelativeToolTip": "PortfolioShop.InventoryService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T07:58:50.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderPlacedConsumer.cs",
+              "DocumentMoniker": "I:\\NETProjects\\PortfolioShop\\PortfolioShop.InventoryService\\Consumers\\OrderPlacedConsumer.cs",
+              "RelativeDocumentMoniker": "PortfolioShop.InventoryService\\Consumers\\OrderPlacedConsumer.cs",
+              "ToolTip": "I:\\NETProjects\\PortfolioShop\\PortfolioShop.InventoryService\\Consumers\\OrderPlacedConsumer.cs",
+              "RelativeToolTip": "PortfolioShop.InventoryService\\Consumers\\OrderPlacedConsumer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T07:58:04.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "I:\\NETProjects\\PortfolioShop\\PortfolioShop.OrderApi\\Program.cs",
+              "RelativeDocumentMoniker": "PortfolioShop.OrderApi\\Program.cs",
+              "ToolTip": "I:\\NETProjects\\PortfolioShop\\PortfolioShop.OrderApi\\Program.cs",
+              "RelativeToolTip": "PortfolioShop.OrderApi\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T07:55:38.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "I:\\NETProjects\\PortfolioShop\\PortfolioShop.OrderApi\\appsettings.json",
+              "RelativeDocumentMoniker": "PortfolioShop.OrderApi\\appsettings.json",
+              "ToolTip": "I:\\NETProjects\\PortfolioShop\\PortfolioShop.OrderApi\\appsettings.json",
+              "RelativeToolTip": "PortfolioShop.OrderApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-09T07:54:36.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IOrderPlacedEvent.cs",
+              "DocumentMoniker": "I:\\NETProjects\\PortfolioShop\\PortfolioShop.Contracts\\Messages\\IOrderPlacedEvent.cs",
+              "RelativeDocumentMoniker": "PortfolioShop.Contracts\\Messages\\IOrderPlacedEvent.cs",
+              "ToolTip": "I:\\NETProjects\\PortfolioShop\\PortfolioShop.Contracts\\Messages\\IOrderPlacedEvent.cs",
+              "RelativeToolTip": "PortfolioShop.Contracts\\Messages\\IOrderPlacedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T07:53:15.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PortfolioShop.OrderApi.csproj",
+              "DocumentMoniker": "I:\\NETProjects\\PortfolioShop\\PortfolioShop.OrderApi\\PortfolioShop.OrderApi.csproj",
+              "RelativeDocumentMoniker": "PortfolioShop.OrderApi\\PortfolioShop.OrderApi.csproj",
+              "ToolTip": "I:\\NETProjects\\PortfolioShop\\PortfolioShop.OrderApi\\PortfolioShop.OrderApi.csproj",
+              "RelativeToolTip": "PortfolioShop.OrderApi\\PortfolioShop.OrderApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-09T07:50:19.418Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
